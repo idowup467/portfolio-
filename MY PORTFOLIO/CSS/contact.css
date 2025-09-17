@@ -1,0 +1,82 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      background: #096101d2;
+      color: #fff;
+    }
+    header{
+        text-align: center;
+        padding: 25px;
+    }
+
+    .contact-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;  
+      max-width: 800px;
+      margin: 50px auto;
+      text-align: center;
+      padding: 50px;
+    }
+
+    .contact-item {
+      flex: 1 1 30%;
+      min-width: 200px;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    } 
+    nav a {margin:0 8px;color:white;text-decoration:none;font-weight:bold;font-size: small;
+}
+
+nav a.active, nav a:hover {color:#000e13;
+}
+.g{
+    background-color: rgb(3, 173, 40);
+}
+.p{
+    font-size: large;
+}
+.con{
+     background-color: #05af05c9;padding: 20px;margin: 15px auto;max-width: 400px;border-radius: 10px;box-shadow: 0 4px 10px rgba(245, 242, 242, 0.801);
+}
+.con:hover{
+    background-color: rgb(105, 104, 104);
+}
+.c{
+ background-color: #04ac04e3;padding: 20px;margin: 15px auto;max-width: 400px;border-radius: 10px;box-shadow: 0 4px 10px rgba(245, 242, 242, 0.801);
+}
+.c:hover{
+    background-color: rgb(105, 104, 104);
+}
+.o{
+ background-color: #04ac04e3;padding: 20px;margin: 15px auto;max-width: 400px;border-radius: 10px;box-shadow: 0 4px 10px rgba(245, 242, 242, 0.801);
+}
+.o:hover{
+    background-color: rgb(105, 104, 104);
+}
+.em{
+ background-color: #04ac04e3;padding: 20px;margin: 15px auto;max-width: 400px;border-radius: 10px;box-shadow: 0 4px 10px rgba(245, 242, 242, 0.801);
+}
+.em:hover{
+    background-color:rgb(105, 104, 104);
+}
+.co{
+ background-color: #04ac04e3;padding: 20px;margin: 15px auto;max-width: 400px;border-radius: 10px;box-shadow: 0 4px 10px rgba(245, 242, 242, 0.801);
+}
+.co:hover{
+    background-color:rgb(106, 112, 106);
+}
+.m{
+ background-color: #03b60ce0;padding: 20px;margin: 15px auto;max-width: 400px;border-radius: 10px;box-shadow: 0 4px 10px rgba(245, 242, 242, 0.801);
+}
+.m:hover{
+    background-color: rgb(107, 110, 107);
+}
+.e{
+    padding: 3px;
+    text-align: center;
+    background-color: green;
+}
