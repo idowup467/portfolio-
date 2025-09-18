@@ -1,0 +1,25 @@
+body {font-family:sans-serif;margin:0;background:#02b811;color:#fffefe;
+}
+
+header {background:#015f0e77;color:white;padding:15px;text-align:center;
+}
+
+nav a {margin:0 8px;color:white;text-decoration:none;font-weight:bold;
+}
+
+nav a.active, nav a:hover {color:#000e13;
+}
+
+.about {padding:40px;text-align:center;
+}
+
+footer{
+    padding: 3px;
+    background-color: #085001b6;
+    color: azure;
+    text-align: center;
+}
+.img{
+    margin-left: -65rem;
+    border-radius: 300px;
+}

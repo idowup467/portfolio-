@@ -1,0 +1,51 @@
+body {font-family:sans-serif;margin:0;background:#f4fafff1;color:#e9e2e2;
+    background-color: rgba(13, 14, 14, 0.973);
+}
+
+header {background:#02b811dc;color:rgb(10, 0, 0);padding:15px;text-align:center;
+}
+
+nav a {margin:0 8px;color: rgba(247, 246, 246, 0.952);text-decoration:none;font-weight:bold;
+}
+
+nav a.active, nav a:hover {color:#01161d;
+}
+
+.skills {padding:40px;
+    text-align: center;
+}
+
+.skill {margin:20px 0;
+    padding: 2px;
+}
+.u{
+    background-color: #0f4401c9;padding: 20px;margin: 15px auto;max-width: 300px;border-radius: 20px;box-shadow: 0 4px 10px rgba(245, 242, 242, 0.801);
+}
+.u:hover{
+    background-color: green;
+}
+.s{
+    background-color: #0f4401c9;padding: 20px;margin: 15px auto;max-width: 300px;border-radius: 20px;box-shadow: 0 4px 10px rgba(245, 242, 242, 0.801);
+}
+.s:hover{
+    background-color: green;
+}
+.f{
+    background-color: #0f4401c9;padding: 20px;margin: 15px auto;max-width: 300px;border-radius: 20px;box-shadow: 0 4px 10px rgba(245, 242, 242, 0.801);
+}
+.f:hover{
+    background-color: green;
+}
+.p{
+    background-color: #0f4401c9;padding: 20px;margin: 15px auto;max-width: 300px;border-radius: 20px;box-shadow: 0 4px 10px rgba(245, 242, 242, 0.801);
+
+}
+.p:hover{
+    background-color: green;
+}
+.e{
+    background-color: green;
+    text-align: center;
+    color: aliceblue;
+    padding: 3px;
+}
