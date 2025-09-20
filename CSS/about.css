@@ -20,6 +20,9 @@ footer{
     text-align: center;
 }
 .img{
-    margin-left: -65rem;
-    border-radius: 300px;
+    border-radius: 200px;
+    max-width: 100;
+    display: block;
+    margin: 0% auto;
+    height: auto;
 }
